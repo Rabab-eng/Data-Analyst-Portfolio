@@ -3,7 +3,10 @@ Portfolio showcasing my Data Analyst projects, including dashboards built with P
 ## 📊 Dashboard المبيعات الشهرية
 - **الوصف:** تحليل بيانات المبيعات الشهرية لتحديد المنتجات الأكثر مبيعًا والاتجاهات.
 - **الأدوات:** Tableau 
-- **النتائج:** ساعد في زيادة الإيرادات بنسبة 15%.
+- **النتائج:** ساعد في زيادة الإيرادات بنسبة 15%
+-
+-
+- .![Sales Dashboard](2026-01-27.png)
 ## 📬 التواصل
 - **Email:** rabab.sherif2023@gmail.com
 - **LinkedIn:**  https://www.linkedin.com/in/rabab-mohamed-261103a0/
